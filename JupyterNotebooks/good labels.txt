@@ -1,0 +1,31 @@
+scorpion
+peacock
+koala
+snail
+ladybug
+bee
+ant
+zebra
+llama
+gorilla
+cab (nejako rozmazať text taxi ... alebo tak)
+candle (zhasnutá alebo s dymom)
+cassette
+chain
+electric guitar
+limousine
+radio
+shovel
+ski mask
+sock
+sunglasses
+teapod
+umbrella
+wallet
+ice cream
+hot dog
+broccoli
+mushroom
+pineaple
+pizza
+ear

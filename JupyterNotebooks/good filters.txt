@@ -1,0 +1,29 @@
+Kontrast na max
+Invert
+Odfarbiť (grayscale ale 3 kanálový)
+Pure white and black - threshold
+Posterizácia
+Lens blur - ako slabo vidiaci človek
+Median blur - trochu ako maľba - 50, 50, 50
+Pixelizácia + size ratio kvôli medzerám
+	- malinké pixely s medzerou
+	- vačšie pixely s/bez medzery
+High pass ?
+Relief
+Mozaika
+	- hexagons
+	- octagons
+	- triangles
+Vlnenie
+Vlny - ako hladina vody
+Spraviť supernovou svietiace oči :D
+Šum
+	-výpadky
+	-rozpestrieť
+Gaussov rozdiel
+Neon
+Kubizmus
+Olejomaľba
+Water pixels
+Ilúzia
+Papierová dlaždica
