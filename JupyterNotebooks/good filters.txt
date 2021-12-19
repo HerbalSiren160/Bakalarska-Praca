@@ -1,29 +1,83 @@
-Kontrast na max
-Invert
-Odfarbiť (grayscale ale 3 kanálový)
-Pure white and black - threshold
-Posterizácia
-Lens blur - ako slabo vidiaci človek
-Median blur - trochu ako maľba - 50, 50, 50
-Pixelizácia + size ratio kvôli medzerám
-	- malinké pixely s medzerou
-	- vačšie pixely s/bez medzery
-High pass ?
-Relief
-Mozaika
-	- hexagons
-	- octagons
-	- triangles
-Vlnenie
-Vlny - ako hladina vody
-Spraviť supernovou svietiace oči :D
-Šum
-	-výpadky
-	-rozpestrieť
-Gaussov rozdiel
-Neon
-Kubizmus
-Olejomaľba
-Water pixels
-Ilúzia
-Papierová dlaždica
+Farby
+	jas-kontrast:
+		kontrast -120/-110
+		kontrast 120/110
+	odfarbit:
+		odfarbit
+	mapa:
+		mimozemske mapovanie 15, 130
+
+	posterizovat 3
+
+Filtre
+	rozostrenie:
+		xlens blur 50+	
+		xmedian blur 50+
+		xpixelizovat - male+medzery, velke+bezmedzier
+		xcircular/linear/zoom blur	
+	vylepsenie:
+		xhigh pass 5, 2
+	skreslenie:
+		relief 40, 85
+		engrave 5
+		mozaika 60, 0.5, 0-15
+		novinova tlac 20, 0.5, 2, 20
+		vlnenie
+		posunutie
+		vlny
+		vir a zoskrtenie
+	sum:
+		vypadky
+		rgb sum?
+		rozpestriet vysoka hodnota
+	detekcia hran:
+		neon vysoke hodnoty
+	umelecke:
+		kubizmus
+		sklenena dlazdica
+		olejomalba
+		fotokopia
+		xsimple linear .....
+		xwater pixels
+	mapa:
+		papierova dlazdica
+
+
+		prekryť časť obrázku
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
